@@ -1,3 +1,7 @@
+v3
+    - Added camera rotation
+    - Added camera pitch up/down
+
 v2
     - Added camera_t camera type and a camera object
     - Looping throught the currently selected map image and project pixels from the map on screen
